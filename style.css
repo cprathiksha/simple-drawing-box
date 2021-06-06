@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+.btn{
+
+  width:70px;
+  height: 40px;
+  color: white;
+  background-color: black;
+  float:right;
+ 
+
+}
+.mydiv{
+  margin-top: 10px;
+  padding-left: 90px;
+  padding-right: 90px;
+}
+
+
+
